@@ -1,0 +1,7796 @@
+{
+  "units": [
+    {
+      "unit_code": "CP1000",
+      "unit_id": 164209932,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1001",
+      "unit_id": 175610380,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1002",
+      "unit_id": 164209938,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1003",
+      "unit_id": 164209940,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1004",
+      "unit_id": 164209942,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1005",
+      "unit_id": 176180060,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1006",
+      "unit_id": 164209946,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1007",
+      "unit_id": 175610383,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1008",
+      "unit_id": 164209950,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1009",
+      "unit_id": 164209952,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1010",
+      "unit_id": 164209954,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1011",
+      "unit_id": 164209956,
+      "unit_type_code": "KM",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1012",
+      "unit_id": 164209958,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1013",
+      "unit_id": 164209960,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1014",
+      "unit_id": 164209962,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1015",
+      "unit_id": 164209964,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1016",
+      "unit_id": 164209966,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1017",
+      "unit_id": 164209968,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1018",
+      "unit_id": 223528723,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1019",
+      "unit_id": 164209972,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1020",
+      "unit_id": 175610386,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1021",
+      "unit_id": 164209976,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1022",
+      "unit_id": 164209978,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1023",
+      "unit_id": 164209980,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1024",
+      "unit_id": 164209982,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1025",
+      "unit_id": 164209984,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1026",
+      "unit_id": 223528760,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 51,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1027",
+      "unit_id": 175610389,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1028",
+      "unit_id": 164209990,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1029",
+      "unit_id": 175610393,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1030",
+      "unit_id": 175610396,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1031",
+      "unit_id": 164209996,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1032",
+      "unit_id": 164209998,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1033",
+      "unit_id": 164210000,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1034",
+      "unit_id": 164210002,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1035",
+      "unit_id": 164210004,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1036",
+      "unit_id": 164210006,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1037",
+      "unit_id": 164210008,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1038",
+      "unit_id": 164210010,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1039",
+      "unit_id": 175610399,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1040",
+      "unit_id": 175610402,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1041",
+      "unit_id": 175610405,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1042",
+      "unit_id": 175610408,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1043",
+      "unit_id": 175610411,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1044",
+      "unit_id": 164210024,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1045",
+      "unit_id": 164210022,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1046",
+      "unit_id": 164210026,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1047",
+      "unit_id": 164210028,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1048",
+      "unit_id": 164210030,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1049",
+      "unit_id": 223528763,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1050",
+      "unit_id": 175610414,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1051",
+      "unit_id": 175610417,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1052",
+      "unit_id": 175610420,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1053",
+      "unit_id": 175610423,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1054",
+      "unit_id": 175610426,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1055",
+      "unit_id": 164210044,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1056",
+      "unit_id": 175610429,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1057",
+      "unit_id": 164210048,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1058",
+      "unit_id": 164210050,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1059",
+      "unit_id": 248917505,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 35,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1060",
+      "unit_id": 223528767,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1061",
+      "unit_id": 175610435,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1062",
+      "unit_id": 175610438,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1063",
+      "unit_id": 175610441,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1064",
+      "unit_id": 164210079,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1065",
+      "unit_id": 175610444,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1066",
+      "unit_id": 175610447,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1067",
+      "unit_id": 175610450,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1068",
+      "unit_id": 175610453,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1070",
+      "unit_id": 181874817,
+      "unit_type_code": "COMF",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1071",
+      "unit_id": 181874819,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1072",
+      "unit_id": 181874821,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 277
+    },
+    {
+      "unit_code": "CP1073",
+      "unit_id": 181874823,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 249
+    },
+    {
+      "unit_code": "CP1074",
+      "unit_id": 181874825,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 253
+    },
+    {
+      "unit_code": "CP1075",
+      "unit_id": 181874827,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 258
+    },
+    {
+      "unit_code": "CP1076",
+      "unit_id": 181874829,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 266
+    },
+    {
+      "unit_code": "CP1077",
+      "unit_id": 181874831,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 265
+    },
+    {
+      "unit_code": "CP1078",
+      "unit_id": 181874833,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 291
+    },
+    {
+      "unit_code": "CP1079",
+      "unit_id": 181874835,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 270
+    },
+    {
+      "unit_code": "CP1080",
+      "unit_id": 181874837,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 228
+    },
+    {
+      "unit_code": "CP1081",
+      "unit_id": 181874839,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 270
+    },
+    {
+      "unit_code": "CP1082",
+      "unit_id": 181874841,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 266
+    },
+    {
+      "unit_code": "CP1083",
+      "unit_id": 181874843,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 249
+    },
+    {
+      "unit_code": "CP1084",
+      "unit_id": 181874845,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 16,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1085",
+      "unit_id": 181874847,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 272
+    },
+    {
+      "unit_code": "CP1086",
+      "unit_id": 181874849,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 265
+    },
+    {
+      "unit_code": "CP1087",
+      "unit_id": 181874851,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 249
+    },
+    {
+      "unit_code": "CP1088",
+      "unit_id": 181874853,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 272
+    },
+    {
+      "unit_code": "CP1089",
+      "unit_id": 181874855,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 17,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1090",
+      "unit_id": 181874857,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1091",
+      "unit_id": 181874859,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 253
+    },
+    {
+      "unit_code": "CP1092",
+      "unit_id": 181874861,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 291
+    },
+    {
+      "unit_code": "CP1093",
+      "unit_id": 181874863,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 291
+    },
+    {
+      "unit_code": "CP1094",
+      "unit_id": 181874865,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 266
+    },
+    {
+      "unit_code": "CP1095",
+      "unit_id": 181874867,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 298
+    },
+    {
+      "unit_code": "CP1096",
+      "unit_id": 181874869,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP1097",
+      "unit_id": 181874871,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 288
+    },
+    {
+      "unit_code": "CP1098",
+      "unit_id": 181874873,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 288
+    },
+    {
+      "unit_code": "CP1099",
+      "unit_id": 181874875,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 267
+    },
+    {
+      "unit_code": "CP876",
+      "unit_id": 100010354,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 16,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP877",
+      "unit_id": 102716604,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP878",
+      "unit_id": 111143560,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 288
+    },
+    {
+      "unit_code": "CP879",
+      "unit_id": 100010360,
+      "unit_type_code": "KM",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP880",
+      "unit_id": 100010362,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP881",
+      "unit_id": 100010364,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 20,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP882",
+      "unit_id": 100010366,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP883",
+      "unit_id": 100010368,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 253
+    },
+    {
+      "unit_code": "CP884",
+      "unit_id": 100010370,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP885",
+      "unit_id": 100010372,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP886",
+      "unit_id": 100010374,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP887",
+      "unit_id": 100010377,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 19,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP888",
+      "unit_id": 100010379,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP889",
+      "unit_id": 100010381,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 29,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP890",
+      "unit_id": 100010383,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 267
+    },
+    {
+      "unit_code": "CP891",
+      "unit_id": 100010385,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 266
+    },
+    {
+      "unit_code": "CP892",
+      "unit_id": 100010389,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP893",
+      "unit_id": 100010391,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP894",
+      "unit_id": 100010393,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 288
+    },
+    {
+      "unit_code": "CP895",
+      "unit_id": 100010395,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 260
+    },
+    {
+      "unit_code": "CP896",
+      "unit_id": 100010397,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 41,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP897",
+      "unit_id": 100010399,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP898",
+      "unit_id": 100010401,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 27,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP899",
+      "unit_id": 100010405,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP900",
+      "unit_id": 104399224,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 17,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP901",
+      "unit_id": 100010409,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP902",
+      "unit_id": 100010411,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 280
+    },
+    {
+      "unit_code": "CP903",
+      "unit_id": 100010413,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 27,
+      "available_after": 272
+    },
+    {
+      "unit_code": "CP904",
+      "unit_id": 100010415,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP905",
+      "unit_id": 100010417,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP906",
+      "unit_id": 100010419,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP907",
+      "unit_id": 100010421,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP908",
+      "unit_id": 100010423,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP909",
+      "unit_id": 100010425,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP910",
+      "unit_id": 100010427,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP911",
+      "unit_id": 100010429,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 281
+    },
+    {
+      "unit_code": "CP912",
+      "unit_id": 100010431,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP913",
+      "unit_id": 100010433,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 47,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP914",
+      "unit_id": 100010435,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP915",
+      "unit_id": 100010437,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 301
+    },
+    {
+      "unit_code": "CP916",
+      "unit_id": 100010439,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 286
+    },
+    {
+      "unit_code": "CP917",
+      "unit_id": 100015535,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP918",
+      "unit_id": 100015537,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP919",
+      "unit_id": 100015539,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP920",
+      "unit_id": 100010441,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 260
+    },
+    {
+      "unit_code": "CP921",
+      "unit_id": 100010453,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 18,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP922",
+      "unit_id": 100010455,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP923",
+      "unit_id": 100010457,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP924",
+      "unit_id": 100206608,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP925",
+      "unit_id": 100010461,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP926",
+      "unit_id": 100010463,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 29,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP927",
+      "unit_id": 100010465,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 267
+    },
+    {
+      "unit_code": "CP928",
+      "unit_id": 100010467,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 258
+    },
+    {
+      "unit_code": "CP930",
+      "unit_id": 122591090,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP931",
+      "unit_id": 169256639,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP932",
+      "unit_id": 106317637,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP933",
+      "unit_id": 106657935,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP934",
+      "unit_id": 122591093,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP935",
+      "unit_id": 133699023,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP936",
+      "unit_id": 122756908,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP937",
+      "unit_id": 106317645,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP938",
+      "unit_id": 133204035,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP939",
+      "unit_id": 133204050,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP940",
+      "unit_id": 100010491,
+      "unit_type_code": "KM",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP941",
+      "unit_id": 133303819,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP942",
+      "unit_id": 122756925,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP943",
+      "unit_id": 122565399,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP944",
+      "unit_id": 122788774,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP945",
+      "unit_id": 132792191,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP946",
+      "unit_id": 122788779,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP947",
+      "unit_id": 122591087,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP948",
+      "unit_id": 122756911,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP949",
+      "unit_id": 122497980,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP950",
+      "unit_id": 122591096,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP951",
+      "unit_id": 122497982,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP952",
+      "unit_id": 122756914,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP953",
+      "unit_id": 132821292,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP954",
+      "unit_id": 122497993,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP955",
+      "unit_id": 122756920,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP956",
+      "unit_id": 122497984,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP957",
+      "unit_id": 133204022,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP958",
+      "unit_id": 132681331,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP959",
+      "unit_id": 133252861,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP960",
+      "unit_id": 122788782,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP961",
+      "unit_id": 122756928,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP962",
+      "unit_id": 133204025,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP963",
+      "unit_id": 133269768,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP964",
+      "unit_id": 122756931,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP965",
+      "unit_id": 133204029,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP966",
+      "unit_id": 122681053,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP967",
+      "unit_id": 122788799,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP968",
+      "unit_id": 122497986,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP969",
+      "unit_id": 132637798,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP970",
+      "unit_id": 133698996,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP971",
+      "unit_id": 106317711,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP972",
+      "unit_id": 133133686,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP973",
+      "unit_id": 106317715,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP974",
+      "unit_id": 106317717,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP975",
+      "unit_id": 133269765,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP976",
+      "unit_id": 133698993,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP977",
+      "unit_id": 122497996,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP978",
+      "unit_id": 124527520,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP979",
+      "unit_id": 122756935,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP980",
+      "unit_id": 106317729,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP981",
+      "unit_id": 132637795,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP982",
+      "unit_id": 106317733,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP983",
+      "unit_id": 122497988,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP984",
+      "unit_id": 122497990,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP985",
+      "unit_id": 133303816,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP986",
+      "unit_id": 231942303,
+      "unit_type_code": "COMF",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP987",
+      "unit_id": 175610367,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP988",
+      "unit_id": 133252855,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP989",
+      "unit_id": 132779055,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP990",
+      "unit_id": 132850600,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP991",
+      "unit_id": 106317751,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP992",
+      "unit_id": 133123084,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP993",
+      "unit_id": 132850603,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP994",
+      "unit_id": 133204019,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP995",
+      "unit_id": 169256643,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP996",
+      "unit_id": 164209802,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP997",
+      "unit_id": 175610370,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP998",
+      "unit_id": 175610373,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "CP999",
+      "unit_id": 175610377,
+      "unit_type_code": "KM",
+      "status": "C",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS001",
+      "unit_id": 196033511,
+      "unit_type_code": "GPT",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS002",
+      "unit_id": 196033503,
+      "unit_type_code": "GCT",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS003",
+      "unit_id": 196033507,
+      "unit_type_code": "GPFT",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 222
+    },
+    {
+      "unit_code": "GS004",
+      "unit_id": 196033509,
+      "unit_type_code": "GPFT",
+      "status": "A",
+      "available_before": 19,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS005",
+      "unit_id": 196033513,
+      "unit_type_code": "GPT",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS006",
+      "unit_id": 196033515,
+      "unit_type_code": "GPT",
+      "status": "A",
+      "available_before": 15,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS007",
+      "unit_id": 196033517,
+      "unit_type_code": "GPT",
+      "status": "A",
+      "available_before": 2,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS008",
+      "unit_id": 196033519,
+      "unit_type_code": "GPT",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS009",
+      "unit_id": 196033521,
+      "unit_type_code": "GPT",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "GS010",
+      "unit_id": 196033505,
+      "unit_type_code": "GCT",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 265
+    },
+    {
+      "unit_code": "KK001",
+      "unit_id": 100011933,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK002",
+      "unit_id": 100011935,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK003",
+      "unit_id": 100011937,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK004",
+      "unit_id": 100011939,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK005",
+      "unit_id": 100011941,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK006",
+      "unit_id": 100011943,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK007",
+      "unit_id": 100011945,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK008",
+      "unit_id": 100011947,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK009",
+      "unit_id": 100011949,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK010",
+      "unit_id": 100011951,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK011",
+      "unit_id": 108538418,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK012",
+      "unit_id": 108538420,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "KK013",
+      "unit_id": 108538422,
+      "unit_type_code": "K",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD001",
+      "unit_id": 142018126,
+      "unit_type_code": "MKIM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD002",
+      "unit_id": 142018134,
+      "unit_type_code": "MKIM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD003",
+      "unit_id": 142018114,
+      "unit_type_code": "MKAM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD004",
+      "unit_id": 142018116,
+      "unit_type_code": "MKAM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD005",
+      "unit_id": 142018118,
+      "unit_type_code": "MKAM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD006",
+      "unit_id": 142018136,
+      "unit_type_code": "MKIM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD007",
+      "unit_id": 142018138,
+      "unit_type_code": "MKIM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD008",
+      "unit_id": 142018140,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 3,
+      "available_after": 7
+    },
+    {
+      "unit_code": "MD009",
+      "unit_id": 142018120,
+      "unit_type_code": "MKAM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD010",
+      "unit_id": 142018142,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 69
+    },
+    {
+      "unit_code": "MD011",
+      "unit_id": 142018144,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 260
+    },
+    {
+      "unit_code": "MD012",
+      "unit_id": 142018146,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD013",
+      "unit_id": 142018148,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD014",
+      "unit_id": 142018122,
+      "unit_type_code": "MKAM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD015",
+      "unit_id": 142018150,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD016",
+      "unit_id": 142018152,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD017",
+      "unit_id": 142018154,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 1,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD018",
+      "unit_id": 142018156,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD019",
+      "unit_id": 142018124,
+      "unit_type_code": "MKAM",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 265
+    },
+    {
+      "unit_code": "MD020",
+      "unit_id": 142018159,
+      "unit_type_code": "MKIM",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 328
+    },
+    {
+      "unit_code": "MD021",
+      "unit_id": 159617731,
+      "unit_type_code": "MKI",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD022",
+      "unit_id": 159632333,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD023",
+      "unit_id": 159632335,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD024",
+      "unit_id": 159632326,
+      "unit_type_code": "MKA",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 0
+    },
+    {
+      "unit_code": "MD025",
+      "unit_id": 159632328,
+      "unit_type_code": "MKA",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD026",
+      "unit_id": 159632337,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD027",
+      "unit_id": 159632339,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 5,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD028",
+      "unit_id": 159632341,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD029",
+      "unit_id": 159632343,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD030",
+      "unit_id": 191474094,
+      "unit_type_code": "MKD",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD031",
+      "unit_id": 159632330,
+      "unit_type_code": "MKA",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 0
+    },
+    {
+      "unit_code": "MD032",
+      "unit_id": 191474067,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD033",
+      "unit_id": 191474069,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD034",
+      "unit_id": 191474071,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD035",
+      "unit_id": 191474055,
+      "unit_type_code": "MKA",
+      "status": "A",
+      "available_before": 4,
+      "available_after": 7
+    },
+    {
+      "unit_code": "MD036",
+      "unit_id": 191474073,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 7
+    },
+    {
+      "unit_code": "MD037",
+      "unit_id": 191474057,
+      "unit_type_code": "MKA",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 7
+    },
+    {
+      "unit_code": "MD038",
+      "unit_id": 191474059,
+      "unit_type_code": "MKA",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD039",
+      "unit_id": 191474061,
+      "unit_type_code": "MKA",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 7
+    },
+    {
+      "unit_code": "MD040",
+      "unit_id": 191474063,
+      "unit_type_code": "MKA",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 229
+    },
+    {
+      "unit_code": "MD041",
+      "unit_id": 191474075,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD042",
+      "unit_id": 191474077,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD043",
+      "unit_id": 191474079,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD044",
+      "unit_id": 191474081,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD045",
+      "unit_id": 191474083,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD046",
+      "unit_id": 191474065,
+      "unit_type_code": "MKA",
+      "status": "A",
+      "available_before": 6,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD047",
+      "unit_id": 191474085,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD048",
+      "unit_id": 191474087,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 7
+    },
+    {
+      "unit_code": "MD049",
+      "unit_id": 191474089,
+      "unit_type_code": "MKI",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 272
+    },
+    {
+      "unit_code": "MD050",
+      "unit_id": 191474097,
+      "unit_type_code": "MKD",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD051",
+      "unit_id": 122825571,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD052",
+      "unit_id": 122825573,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD053",
+      "unit_id": 122825575,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD054",
+      "unit_id": 122825577,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD055",
+      "unit_id": 122825579,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD056",
+      "unit_id": 122825581,
+      "unit_type_code": "MKCM",
+      "status": "B",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD057",
+      "unit_id": 122825583,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD058",
+      "unit_id": 122825585,
+      "unit_type_code": "MKCM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 68
+    },
+    {
+      "unit_code": "MD059",
+      "unit_id": 122825587,
+      "unit_type_code": "MKCM",
+      "status": "A",
+      "available_before": 3,
+      "available_after": 8
+    },
+    {
+      "unit_code": "MD060",
+      "unit_id": 122825589,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD061",
+      "unit_id": 122825591,
+      "unit_type_code": "MKCM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 69
+    },
+    {
+      "unit_code": "MD062",
+      "unit_id": 122825593,
+      "unit_type_code": "MKCM",
+      "status": "B",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD063",
+      "unit_id": 122825595,
+      "unit_type_code": "MKCM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 71
+    },
+    {
+      "unit_code": "MD064",
+      "unit_id": 122825597,
+      "unit_type_code": "MKCM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD065",
+      "unit_id": 122825599,
+      "unit_type_code": "MKCM",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 72
+    },
+    {
+      "unit_code": "MD066",
+      "unit_id": 122825601,
+      "unit_type_code": "MKC",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD067",
+      "unit_id": 122825603,
+      "unit_type_code": "MKC",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD068",
+      "unit_id": 122825605,
+      "unit_type_code": "MKC",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD069",
+      "unit_id": 122825607,
+      "unit_type_code": "MKC",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD070",
+      "unit_id": 122825609,
+      "unit_type_code": "MKC",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD071",
+      "unit_id": 122825611,
+      "unit_type_code": "MKC",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD072",
+      "unit_id": 122825613,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD073",
+      "unit_id": 122825615,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 5,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD074",
+      "unit_id": 122825617,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD075",
+      "unit_id": 122825619,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 12
+    },
+    {
+      "unit_code": "MD076",
+      "unit_id": 122825621,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD077",
+      "unit_id": 122825623,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD078",
+      "unit_id": 122825625,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 13
+    },
+    {
+      "unit_code": "MD079",
+      "unit_id": 122825627,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 8
+    },
+    {
+      "unit_code": "MD080",
+      "unit_id": 122825629,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD081",
+      "unit_id": 132637555,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 265
+    },
+    {
+      "unit_code": "MD082",
+      "unit_id": 132637558,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 17,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD083",
+      "unit_id": 132637560,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD084",
+      "unit_id": 132637562,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 280
+    },
+    {
+      "unit_code": "MD085",
+      "unit_id": 132637564,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 19,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD086",
+      "unit_id": 132637566,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD087",
+      "unit_id": 132637568,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD088",
+      "unit_id": 132637570,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 274
+    },
+    {
+      "unit_code": "MD089",
+      "unit_id": 132637572,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 7
+    },
+    {
+      "unit_code": "MD090",
+      "unit_id": 132637574,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 322
+    },
+    {
+      "unit_code": "MD091",
+      "unit_id": 132637576,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 265
+    },
+    {
+      "unit_code": "MD092",
+      "unit_id": 132637578,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 57
+    },
+    {
+      "unit_code": "MD093",
+      "unit_id": 132637580,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 16,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD094",
+      "unit_id": 132637743,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD095",
+      "unit_id": 132637745,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 328
+    },
+    {
+      "unit_code": "MD096",
+      "unit_id": 132637775,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD097",
+      "unit_id": 132637773,
+      "unit_type_code": "MKC",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD098",
+      "unit_id": 132637771,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 68
+    },
+    {
+      "unit_code": "MD099",
+      "unit_id": 132637769,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 27,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD100",
+      "unit_id": 132637767,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 16,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD101",
+      "unit_id": 132637765,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD102",
+      "unit_id": 132637763,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD103",
+      "unit_id": 132637761,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 10,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD104",
+      "unit_id": 132637759,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD105",
+      "unit_id": 132637757,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD106",
+      "unit_id": 132637755,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 10,
+      "available_after": 314
+    },
+    {
+      "unit_code": "MD107",
+      "unit_id": 132637753,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD108",
+      "unit_id": 132637751,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD109",
+      "unit_id": 132637749,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD110",
+      "unit_id": 132637747,
+      "unit_type_code": "MKC",
+      "status": "A",
+      "available_before": 15,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD111",
+      "unit_id": 147619072,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 0
+    },
+    {
+      "unit_code": "MD112",
+      "unit_id": 147619074,
+      "unit_type_code": "MKEF",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD113",
+      "unit_id": 147619076,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 281
+    },
+    {
+      "unit_code": "MD114",
+      "unit_id": 147619078,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 288
+    },
+    {
+      "unit_code": "MD115",
+      "unit_id": 147619080,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 232
+    },
+    {
+      "unit_code": "MD116",
+      "unit_id": 147619082,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 232
+    },
+    {
+      "unit_code": "MD117",
+      "unit_id": 147619084,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 232
+    },
+    {
+      "unit_code": "MD118",
+      "unit_id": 147619086,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 7,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD119",
+      "unit_id": 147619088,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD120",
+      "unit_id": 147619090,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 12,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD121",
+      "unit_id": 147619092,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD122",
+      "unit_id": 147619094,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 300
+    },
+    {
+      "unit_code": "MD123",
+      "unit_id": 147619096,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 286
+    },
+    {
+      "unit_code": "MD124",
+      "unit_id": 147619100,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD125",
+      "unit_id": 147619102,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD126",
+      "unit_id": 147619104,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 300
+    },
+    {
+      "unit_code": "MD127",
+      "unit_id": 147619106,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 18,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD128",
+      "unit_id": 147619108,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD129",
+      "unit_id": 147619110,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 9,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD130",
+      "unit_id": 147619112,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 8,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD131",
+      "unit_id": 147619114,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD132",
+      "unit_id": 147619116,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 287
+    },
+    {
+      "unit_code": "MD133",
+      "unit_id": 147619127,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 19,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD134",
+      "unit_id": 147619129,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD135",
+      "unit_id": 147619131,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD136",
+      "unit_id": 147619133,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 20,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD137",
+      "unit_id": 147619135,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 15,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD138",
+      "unit_id": 147619137,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 287
+    },
+    {
+      "unit_code": "MD139",
+      "unit_id": 147619139,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 26,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD140",
+      "unit_id": 147619141,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 286
+    },
+    {
+      "unit_code": "MD141",
+      "unit_id": 147619143,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 26,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD142",
+      "unit_id": 147619145,
+      "unit_type_code": "MKEF",
+      "status": "A",
+      "available_before": 26,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD143",
+      "unit_id": 147619147,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD144",
+      "unit_id": 147619150,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD145",
+      "unit_id": 147619152,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD146",
+      "unit_id": 147619154,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD147",
+      "unit_id": 147619156,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD148",
+      "unit_id": 147619158,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD149",
+      "unit_id": 147619160,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD150",
+      "unit_id": 147619162,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD151",
+      "unit_id": 147619164,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD152",
+      "unit_id": 147619166,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD153",
+      "unit_id": 147619168,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD154",
+      "unit_id": 147619170,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD155",
+      "unit_id": 147619172,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD156",
+      "unit_id": 147619175,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD157",
+      "unit_id": 147619177,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD158",
+      "unit_id": 147619179,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD159",
+      "unit_id": 147619181,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD160",
+      "unit_id": 147619183,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD161",
+      "unit_id": 147619185,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD162",
+      "unit_id": 147619187,
+      "unit_type_code": "MBHE",
+      "status": "AX",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD200",
+      "unit_id": 122840716,
+      "unit_type_code": "MKFM",
+      "status": "A",
+      "available_before": 3,
+      "available_after": 6
+    },
+    {
+      "unit_code": "MD201",
+      "unit_id": 122840720,
+      "unit_type_code": "MKFM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 69
+    },
+    {
+      "unit_code": "MD202",
+      "unit_id": 122840722,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD203",
+      "unit_id": 122840724,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD204",
+      "unit_id": 133727323,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD205",
+      "unit_id": 133727325,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD206",
+      "unit_id": 133727327,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD207",
+      "unit_id": 133727329,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD208",
+      "unit_id": 133727331,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD209",
+      "unit_id": 133727333,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD210",
+      "unit_id": 133727335,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD211",
+      "unit_id": 133727337,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD212",
+      "unit_id": 133727339,
+      "unit_type_code": "MKFM",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 314
+    },
+    {
+      "unit_code": "MD213",
+      "unit_id": 133727341,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 258
+    },
+    {
+      "unit_code": "MD214",
+      "unit_id": 133727343,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 245
+    },
+    {
+      "unit_code": "MD215",
+      "unit_id": 133727345,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 1,
+      "available_after": 279
+    },
+    {
+      "unit_code": "MD216",
+      "unit_id": 133727347,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 7,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD217",
+      "unit_id": 133727349,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 302
+    },
+    {
+      "unit_code": "MD218",
+      "unit_id": 133727351,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD219",
+      "unit_id": 133727353,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 13,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD220",
+      "unit_id": 133727355,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD221",
+      "unit_id": 133727357,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 316
+    },
+    {
+      "unit_code": "MD222",
+      "unit_id": 133727359,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 281
+    },
+    {
+      "unit_code": "MD223",
+      "unit_id": 196033443,
+      "unit_type_code": "MKFM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 8
+    },
+    {
+      "unit_code": "MD224",
+      "unit_id": 196033447,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD225",
+      "unit_id": 196033449,
+      "unit_type_code": "MKFM",
+      "status": "A",
+      "available_before": 12,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD226",
+      "unit_id": 196033451,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD227",
+      "unit_id": 196033453,
+      "unit_type_code": "MKFM",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD228",
+      "unit_id": 196033455,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD229",
+      "unit_id": 196033457,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD230",
+      "unit_id": 196033459,
+      "unit_type_code": "MKFM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD231",
+      "unit_id": 196033461,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 70
+    },
+    {
+      "unit_code": "MD232",
+      "unit_id": 196033463,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD233",
+      "unit_id": 196033465,
+      "unit_type_code": "MKF",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD234",
+      "unit_id": 196033467,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 267
+    },
+    {
+      "unit_code": "MD235",
+      "unit_id": 196033469,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 293
+    },
+    {
+      "unit_code": "MD236",
+      "unit_id": 196033471,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 6,
+      "available_after": null
+    },
+    {
+      "unit_code": "MD237",
+      "unit_id": 196033445,
+      "unit_type_code": "MKF",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 307
+    },
+    {
+      "unit_code": "PP035",
+      "unit_id": 104228743,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 1,
+      "available_after": 238
+    },
+    {
+      "unit_code": "PP036",
+      "unit_id": 104228745,
+      "unit_type_code": "PREM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP037",
+      "unit_id": 102289086,
+      "unit_type_code": "PREM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP038",
+      "unit_id": 102289093,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 232
+    },
+    {
+      "unit_code": "PP039",
+      "unit_id": 102289097,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 259
+    },
+    {
+      "unit_code": "PP040",
+      "unit_id": 102289100,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 65
+    },
+    {
+      "unit_code": "PP041",
+      "unit_id": 102289103,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 274
+    },
+    {
+      "unit_code": "PP042",
+      "unit_id": 102289108,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 10,
+      "available_after": 266
+    },
+    {
+      "unit_code": "PP043",
+      "unit_id": 104228747,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 231
+    },
+    {
+      "unit_code": "PP044",
+      "unit_id": 102289114,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 231
+    },
+    {
+      "unit_code": "PP055",
+      "unit_id": 100004529,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 5,
+      "available_after": 267
+    },
+    {
+      "unit_code": "PP065",
+      "unit_id": 102289214,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 272
+    },
+    {
+      "unit_code": "PP066",
+      "unit_id": 102289216,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 263
+    },
+    {
+      "unit_code": "PP067",
+      "unit_id": 102289218,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 266
+    },
+    {
+      "unit_code": "PP068",
+      "unit_id": 102289220,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 258
+    },
+    {
+      "unit_code": "PP069",
+      "unit_id": 102289222,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 265
+    },
+    {
+      "unit_code": "PP070",
+      "unit_id": 102289224,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 281
+    },
+    {
+      "unit_code": "PP071",
+      "unit_id": 102289226,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 265
+    },
+    {
+      "unit_code": "PP072",
+      "unit_id": 102289228,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 265
+    },
+    {
+      "unit_code": "PP073",
+      "unit_id": 102289230,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 266
+    },
+    {
+      "unit_code": "PP084",
+      "unit_id": 102289251,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 235
+    },
+    {
+      "unit_code": "PP085",
+      "unit_id": 102289253,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 267
+    },
+    {
+      "unit_code": "PP086",
+      "unit_id": 102289255,
+      "unit_type_code": "PREM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP087",
+      "unit_id": 102289257,
+      "unit_type_code": "PREM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP088",
+      "unit_id": 102289259,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 11,
+      "available_after": 260
+    },
+    {
+      "unit_code": "PP089",
+      "unit_id": 102289261,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 11,
+      "available_after": 259
+    },
+    {
+      "unit_code": "PP090",
+      "unit_id": 102289263,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 298
+    },
+    {
+      "unit_code": "PP091",
+      "unit_id": 102289265,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 20,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP092",
+      "unit_id": 102289267,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP093",
+      "unit_id": 102289269,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 31,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP094",
+      "unit_id": 102289271,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 258
+    },
+    {
+      "unit_code": "PP095",
+      "unit_id": 102289273,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 258
+    },
+    {
+      "unit_code": "PP096",
+      "unit_id": 102289275,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 17,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP097",
+      "unit_id": 104228755,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 336
+    },
+    {
+      "unit_code": "PP098",
+      "unit_id": 102289279,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 287
+    },
+    {
+      "unit_code": "PP100",
+      "unit_id": 102289283,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP101",
+      "unit_id": 102289285,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 281
+    },
+    {
+      "unit_code": "PP102",
+      "unit_id": 102289287,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 281
+    },
+    {
+      "unit_code": "PP103",
+      "unit_id": 102289289,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 237
+    },
+    {
+      "unit_code": "PP104",
+      "unit_id": 102289291,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 281
+    },
+    {
+      "unit_code": "PP105",
+      "unit_id": 102289293,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 244
+    },
+    {
+      "unit_code": "PP106",
+      "unit_id": 102289295,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 69
+    },
+    {
+      "unit_code": "PP107",
+      "unit_id": 102289297,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 244
+    },
+    {
+      "unit_code": "PP108",
+      "unit_id": 102289299,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 287
+    },
+    {
+      "unit_code": "PP109",
+      "unit_id": 102289301,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 69
+    },
+    {
+      "unit_code": "PP110",
+      "unit_id": 102289303,
+      "unit_type_code": "PREM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP111",
+      "unit_id": 102289305,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 34,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP112",
+      "unit_id": 102289307,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 267
+    },
+    {
+      "unit_code": "PP113",
+      "unit_id": 102289309,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 41,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP114",
+      "unit_id": 102289311,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP115",
+      "unit_id": 102289313,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 32,
+      "available_after": 277
+    },
+    {
+      "unit_code": "PP116",
+      "unit_id": 102289315,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 31,
+      "available_after": 252
+    },
+    {
+      "unit_code": "PP117",
+      "unit_id": 102289317,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 20,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP118",
+      "unit_id": 102289319,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 279
+    },
+    {
+      "unit_code": "PP119",
+      "unit_id": 102289321,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP120",
+      "unit_id": 102289323,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 10,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP121",
+      "unit_id": 102289325,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "PP122",
+      "unit_id": 102289327,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 216
+    },
+    {
+      "unit_code": "PP123",
+      "unit_id": 102289329,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 277
+    },
+    {
+      "unit_code": "PP124",
+      "unit_id": 104228759,
+      "unit_type_code": "PREM",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 258
+    },
+    {
+      "unit_code": "PPM001",
+      "unit_id": 118419455,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM002",
+      "unit_id": 118419457,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM003",
+      "unit_id": 118419459,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM004",
+      "unit_id": 118419461,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM005",
+      "unit_id": 118419463,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM006",
+      "unit_id": 118419465,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM007",
+      "unit_id": 118419467,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM008",
+      "unit_id": 118419469,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM009",
+      "unit_id": 118419471,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM010",
+      "unit_id": 118419473,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM011",
+      "unit_id": 118419475,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM012",
+      "unit_id": 118419477,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM013",
+      "unit_id": 118419479,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM014",
+      "unit_id": 118419481,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM015",
+      "unit_id": 118419483,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM016",
+      "unit_id": 118419485,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM017",
+      "unit_id": 118419487,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM018",
+      "unit_id": 118419489,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM019",
+      "unit_id": 118419491,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM020",
+      "unit_id": 118419493,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM021",
+      "unit_id": 118419495,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 2,
+      "available_after": 6
+    },
+    {
+      "unit_code": "PPM022",
+      "unit_id": 118419497,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM023",
+      "unit_id": 118419499,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 2
+    },
+    {
+      "unit_code": "PPM024",
+      "unit_id": 118419501,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 65
+    },
+    {
+      "unit_code": "PPM025",
+      "unit_id": 118419503,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 235
+    },
+    {
+      "unit_code": "PPM026",
+      "unit_id": 118419505,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 11,
+      "available_after": 69
+    },
+    {
+      "unit_code": "PPM027",
+      "unit_id": 118419507,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM028",
+      "unit_id": 118419509,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 10,
+      "available_after": 67
+    },
+    {
+      "unit_code": "PPM029",
+      "unit_id": 118419511,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 64
+    },
+    {
+      "unit_code": "PPM030",
+      "unit_id": 118419513,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM031",
+      "unit_id": 118419515,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 68
+    },
+    {
+      "unit_code": "PPM032",
+      "unit_id": 118419517,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM033",
+      "unit_id": 118419519,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM034",
+      "unit_id": 118419521,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM035",
+      "unit_id": 118419523,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM036",
+      "unit_id": 118419525,
+      "unit_type_code": "PM",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM037",
+      "unit_id": 118419527,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 2,
+      "available_after": 69
+    },
+    {
+      "unit_code": "PPM038",
+      "unit_id": 118419529,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM039",
+      "unit_id": 118419531,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM040",
+      "unit_id": 118419533,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM056",
+      "unit_id": 193542639,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 270
+    },
+    {
+      "unit_code": "PPM057",
+      "unit_id": 193542643,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 270
+    },
+    {
+      "unit_code": "PPM058",
+      "unit_id": 193542647,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 266
+    },
+    {
+      "unit_code": "PPM059",
+      "unit_id": 193542650,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 231
+    },
+    {
+      "unit_code": "PPM060",
+      "unit_id": 193542663,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 1,
+      "available_after": 221
+    },
+    {
+      "unit_code": "PPM061",
+      "unit_id": 193542665,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM062",
+      "unit_id": 193542667,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM063",
+      "unit_id": 193542669,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 232
+    },
+    {
+      "unit_code": "PPM064",
+      "unit_id": 193542671,
+      "unit_type_code": "PM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "PPM074",
+      "unit_id": 193542693,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 64
+    },
+    {
+      "unit_code": "PPM075",
+      "unit_id": 193542695,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 210
+    },
+    {
+      "unit_code": "PPM076",
+      "unit_id": 193542697,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 258
+    },
+    {
+      "unit_code": "PPM077",
+      "unit_id": 193542699,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 252
+    },
+    {
+      "unit_code": "PPM078",
+      "unit_id": 193542701,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 232
+    },
+    {
+      "unit_code": "PPM079",
+      "unit_id": 193542703,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 232
+    },
+    {
+      "unit_code": "PPM080",
+      "unit_id": 193542709,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 267
+    },
+    {
+      "unit_code": "PPM081",
+      "unit_id": 193542711,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 225
+    },
+    {
+      "unit_code": "PPM082",
+      "unit_id": 193542713,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 270
+    },
+    {
+      "unit_code": "PPM083",
+      "unit_id": 193542715,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 231
+    },
+    {
+      "unit_code": "PPM099",
+      "unit_id": 193542718,
+      "unit_type_code": "PM",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 67
+    },
+    {
+      "unit_code": "SP208",
+      "unit_id": 100006165,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP209",
+      "unit_id": 100006171,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 38,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP210",
+      "unit_id": 100006177,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 20,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP211",
+      "unit_id": 100006181,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 48,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP212",
+      "unit_id": 100006187,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 270
+    },
+    {
+      "unit_code": "SP213",
+      "unit_id": 100006191,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP214",
+      "unit_id": 100006195,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP215",
+      "unit_id": 100006201,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 20,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP216",
+      "unit_id": 100006203,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 39,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP217",
+      "unit_id": 100006207,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 251
+    },
+    {
+      "unit_code": "SP218",
+      "unit_id": 100006211,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 26,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP219",
+      "unit_id": 100006215,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 256
+    },
+    {
+      "unit_code": "SP220",
+      "unit_id": 100006219,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SP221",
+      "unit_id": 100006221,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SP222",
+      "unit_id": 100006227,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 26,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP223",
+      "unit_id": 100006229,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP224",
+      "unit_id": 100006233,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SP225",
+      "unit_id": 100006237,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 286
+    },
+    {
+      "unit_code": "SP226",
+      "unit_id": 100006239,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP227",
+      "unit_id": 100006241,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SP228",
+      "unit_id": 100006243,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 27,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP229",
+      "unit_id": 100006245,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 18,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP230",
+      "unit_id": 100006250,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SP231",
+      "unit_id": 100006254,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP232",
+      "unit_id": 100006256,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SP233",
+      "unit_id": 100006260,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 46,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SP234",
+      "unit_id": 100006264,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SP235",
+      "unit_id": 100006266,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 272
+    },
+    {
+      "unit_code": "SP236",
+      "unit_id": 100006270,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SP237",
+      "unit_id": 100006274,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 265
+    },
+    {
+      "unit_code": "SP238",
+      "unit_id": 100006278,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SP239",
+      "unit_id": 100006284,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 302
+    },
+    {
+      "unit_code": "SP240",
+      "unit_id": 249070757,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SP241",
+      "unit_id": 249070759,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": 295
+    },
+    {
+      "unit_code": "SP242",
+      "unit_id": 249070770,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP243",
+      "unit_id": 249070772,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 28,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP244",
+      "unit_id": 249070774,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP245",
+      "unit_id": 249070776,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP246",
+      "unit_id": 249070778,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP247",
+      "unit_id": 249070780,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP248",
+      "unit_id": 249070782,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 3,
+      "available_after": 298
+    },
+    {
+      "unit_code": "SP249",
+      "unit_id": 249070784,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP250",
+      "unit_id": 249070786,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP251",
+      "unit_id": 249070788,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP252",
+      "unit_id": 249070790,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP253",
+      "unit_id": 249070792,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP254",
+      "unit_id": 249070794,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP255",
+      "unit_id": 249070796,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP256",
+      "unit_id": 249070798,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 33,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP257",
+      "unit_id": 249070800,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 26,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP258",
+      "unit_id": 249070802,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP259",
+      "unit_id": 249070804,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 38,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP260",
+      "unit_id": 249070806,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 25,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP261",
+      "unit_id": 249070808,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 48,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP262",
+      "unit_id": 249070810,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 35,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP263",
+      "unit_id": 249070812,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP800",
+      "unit_id": 100007809,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP801",
+      "unit_id": 100007813,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 40,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP802",
+      "unit_id": 100007815,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP803",
+      "unit_id": 100007817,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 40,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP804",
+      "unit_id": 117530761,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP805",
+      "unit_id": 100007823,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 12,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP806",
+      "unit_id": 100007827,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP807",
+      "unit_id": 100007829,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 49,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP808",
+      "unit_id": 100007835,
+      "unit_type_code": "STND",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP809",
+      "unit_id": 100007839,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP810",
+      "unit_id": 106373266,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 12,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP811",
+      "unit_id": 112251158,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 48,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP812",
+      "unit_id": 100007851,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 49,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP813",
+      "unit_id": 100007853,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 48,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP814",
+      "unit_id": 100007855,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP815",
+      "unit_id": 100007857,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 39,
+      "available_after": 256
+    },
+    {
+      "unit_code": "SP816",
+      "unit_id": 100007861,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SP817",
+      "unit_id": 100007863,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 34,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP818",
+      "unit_id": 100010066,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP819",
+      "unit_id": 100010068,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 46,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP820",
+      "unit_id": 100010070,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP821",
+      "unit_id": 100010077,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP822",
+      "unit_id": 100010080,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP823",
+      "unit_id": 100010082,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 249
+    },
+    {
+      "unit_code": "SP824",
+      "unit_id": 100010084,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SP825",
+      "unit_id": 100010086,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 19,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP826",
+      "unit_id": 100010088,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP827",
+      "unit_id": 112251165,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 50,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP828",
+      "unit_id": 112251161,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 49,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP829",
+      "unit_id": 100010094,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP830",
+      "unit_id": 100010097,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP831",
+      "unit_id": 100010099,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 24,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP832",
+      "unit_id": 100010101,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 38,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP833",
+      "unit_id": 100010104,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP834",
+      "unit_id": 100010106,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP835",
+      "unit_id": 100010110,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP836",
+      "unit_id": 100010116,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP837",
+      "unit_id": 100010118,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 246
+    },
+    {
+      "unit_code": "SP838",
+      "unit_id": 100010120,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SP839",
+      "unit_id": 100010122,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SP840",
+      "unit_id": 100010124,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 256
+    },
+    {
+      "unit_code": "SP841",
+      "unit_id": 100010126,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 28,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP842",
+      "unit_id": 112016175,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP843",
+      "unit_id": 100010130,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP844",
+      "unit_id": 110848569,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP845",
+      "unit_id": 100010134,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP846",
+      "unit_id": 100010136,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SP847",
+      "unit_id": 100010138,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 28,
+      "available_after": null
+    },
+    {
+      "unit_code": "SP848",
+      "unit_id": 100010140,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 246
+    },
+    {
+      "unit_code": "SP849",
+      "unit_id": 100010142,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SP850",
+      "unit_id": 112251168,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SP851",
+      "unit_id": 100010146,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SP852",
+      "unit_id": 112251171,
+      "unit_type_code": "STND",
+      "status": "A",
+      "available_before": 27,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP001",
+      "unit_id": 193606064,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP002",
+      "unit_id": 193606066,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP003",
+      "unit_id": 193606068,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP004",
+      "unit_id": 193606070,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP005",
+      "unit_id": 193606072,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP006",
+      "unit_id": 193606074,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP007",
+      "unit_id": 193606076,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP008",
+      "unit_id": 193606078,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP009",
+      "unit_id": 193606080,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP010",
+      "unit_id": 193606082,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP011",
+      "unit_id": 193606084,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP012",
+      "unit_id": 193606086,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP013",
+      "unit_id": 193606088,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP014",
+      "unit_id": 193606090,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP015",
+      "unit_id": 193606092,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP016",
+      "unit_id": 193606094,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP017",
+      "unit_id": 193606096,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP018",
+      "unit_id": 193606098,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 3,
+      "available_after": 2
+    },
+    {
+      "unit_code": "SUP019",
+      "unit_id": 193606144,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP020",
+      "unit_id": 193606100,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP021",
+      "unit_id": 193606102,
+      "unit_type_code": "SPRM",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP022",
+      "unit_id": 193606104,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 1,
+      "available_after": 68
+    },
+    {
+      "unit_code": "SUP023",
+      "unit_id": 193606106,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 71
+    },
+    {
+      "unit_code": "SUP024",
+      "unit_id": 193606108,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 23
+    },
+    {
+      "unit_code": "SUP025",
+      "unit_id": 193606110,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP026",
+      "unit_id": 193606112,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 69
+    },
+    {
+      "unit_code": "SUP027",
+      "unit_id": 193606114,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP028",
+      "unit_id": 193606116,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 4,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP029",
+      "unit_id": 193606118,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP030",
+      "unit_id": 193606122,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 8
+    },
+    {
+      "unit_code": "SUP031",
+      "unit_id": 193606124,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP032",
+      "unit_id": 193606126,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 17
+    },
+    {
+      "unit_code": "SUP033",
+      "unit_id": 193606128,
+      "unit_type_code": "SPRM",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP034",
+      "unit_id": 193606130,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 69
+    },
+    {
+      "unit_code": "SUP035",
+      "unit_id": 193606132,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 71
+    },
+    {
+      "unit_code": "SUP036",
+      "unit_id": 193606134,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 258
+    },
+    {
+      "unit_code": "SUP037",
+      "unit_id": 193606136,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 6,
+      "available_after": 68
+    },
+    {
+      "unit_code": "SUP038",
+      "unit_id": 193606138,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP039",
+      "unit_id": 193606140,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 34,
+      "available_after": 68
+    },
+    {
+      "unit_code": "SUP040",
+      "unit_id": 193606142,
+      "unit_type_code": "SPRM",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 20
+    },
+    {
+      "unit_code": "SUP041",
+      "unit_id": 106313000,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP042",
+      "unit_id": 106313002,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 71
+    },
+    {
+      "unit_code": "SUP043",
+      "unit_id": 106356771,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP044",
+      "unit_id": 106356773,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 58
+    },
+    {
+      "unit_code": "SUP045",
+      "unit_id": 106313006,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP046",
+      "unit_id": 106313008,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 36,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP047",
+      "unit_id": 106313011,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP048",
+      "unit_id": 106356775,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 36,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP049",
+      "unit_id": 106356777,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP050",
+      "unit_id": 106356779,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP051",
+      "unit_id": 106313013,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP052",
+      "unit_id": 106356785,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP053",
+      "unit_id": 106356787,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP054",
+      "unit_id": 106356789,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SUP056",
+      "unit_id": 122825186,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 32,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SUP057",
+      "unit_id": 122825190,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP058",
+      "unit_id": 122825192,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP059",
+      "unit_id": 122825196,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP060",
+      "unit_id": 122825198,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 40,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP061",
+      "unit_id": 122825202,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP062",
+      "unit_id": 122825204,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP063",
+      "unit_id": 122825206,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 228
+    },
+    {
+      "unit_code": "SUP064",
+      "unit_id": 122825210,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 288
+    },
+    {
+      "unit_code": "SUP065",
+      "unit_id": 122825212,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP066",
+      "unit_id": 122825231,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP067",
+      "unit_id": 122825218,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 270
+    },
+    {
+      "unit_code": "SUP068",
+      "unit_id": 122825235,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP069",
+      "unit_id": 122825237,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP070",
+      "unit_id": 122825241,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 40,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP071",
+      "unit_id": 122825245,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SUP072",
+      "unit_id": 122825247,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 37,
+      "available_after": 286
+    },
+    {
+      "unit_code": "SUP073",
+      "unit_id": 122825249,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP074",
+      "unit_id": 122825253,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 288
+    },
+    {
+      "unit_code": "SUP075",
+      "unit_id": 122825255,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP076",
+      "unit_id": 122825259,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 43,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP077",
+      "unit_id": 122825261,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP078",
+      "unit_id": 122825263,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 288
+    },
+    {
+      "unit_code": "SUP079",
+      "unit_id": 122825267,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 35,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP080",
+      "unit_id": 122825269,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 40,
+      "available_after": 279
+    },
+    {
+      "unit_code": "SUP081",
+      "unit_id": 122825271,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 279
+    },
+    {
+      "unit_code": "SUP082",
+      "unit_id": 122825275,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 32,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP083",
+      "unit_id": 122825277,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 298
+    },
+    {
+      "unit_code": "SUP084",
+      "unit_id": 122825279,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 288
+    },
+    {
+      "unit_code": "SUP085",
+      "unit_id": 122825281,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SUP086",
+      "unit_id": 122825283,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 36,
+      "available_after": 272
+    },
+    {
+      "unit_code": "SUP087",
+      "unit_id": 122825287,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 272
+    },
+    {
+      "unit_code": "SUP088",
+      "unit_id": 122825289,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 273
+    },
+    {
+      "unit_code": "SUP089",
+      "unit_id": 122825293,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP090",
+      "unit_id": 122825295,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP091",
+      "unit_id": 122825297,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 30,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP092",
+      "unit_id": 122825299,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP093",
+      "unit_id": 122825303,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 245
+    },
+    {
+      "unit_code": "SUP094",
+      "unit_id": 122825305,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 39,
+      "available_after": 272
+    },
+    {
+      "unit_code": "SUP095",
+      "unit_id": 122825307,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP096",
+      "unit_id": 122825309,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP097",
+      "unit_id": 122825311,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP098",
+      "unit_id": 122825313,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 40,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP099",
+      "unit_id": 122825315,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 38,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP100",
+      "unit_id": 122825317,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 29,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP101",
+      "unit_id": 122825321,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 40,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP102",
+      "unit_id": 122825323,
+      "unit_type_code": "SUPR",
+      "status": "X",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP103",
+      "unit_id": 122825325,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 28,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP104",
+      "unit_id": 122825327,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SUP105",
+      "unit_id": 122825329,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 287
+    },
+    {
+      "unit_code": "SUP106",
+      "unit_id": 122825333,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 46,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP107",
+      "unit_id": 122825335,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SUP108",
+      "unit_id": 122825337,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 45,
+      "available_after": 279
+    },
+    {
+      "unit_code": "SUP109",
+      "unit_id": 122825341,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 36,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP110",
+      "unit_id": 122825343,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 69
+    },
+    {
+      "unit_code": "SUP111",
+      "unit_id": 122825347,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP112",
+      "unit_id": 122825349,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 45,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP113",
+      "unit_id": 122825351,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP114",
+      "unit_id": 122825355,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP115",
+      "unit_id": 122825357,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP116",
+      "unit_id": 122825359,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 69
+    },
+    {
+      "unit_code": "SUP117",
+      "unit_id": 122825361,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 39,
+      "available_after": 252
+    },
+    {
+      "unit_code": "SUP118",
+      "unit_id": 122825365,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 39,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP119",
+      "unit_id": 122825367,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 293
+    },
+    {
+      "unit_code": "SUP120",
+      "unit_id": 122825369,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 293
+    },
+    {
+      "unit_code": "SUP121",
+      "unit_id": 122825373,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 231
+    },
+    {
+      "unit_code": "SUP122",
+      "unit_id": 122825375,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP123",
+      "unit_id": 122825379,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP124",
+      "unit_id": 122825381,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 43,
+      "available_after": 265
+    },
+    {
+      "unit_code": "SUP125",
+      "unit_id": 122825383,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP126",
+      "unit_id": 127827037,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP127",
+      "unit_id": 127827039,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 22,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP128",
+      "unit_id": 132637582,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP129",
+      "unit_id": 132637584,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 239
+    },
+    {
+      "unit_code": "SUP130",
+      "unit_id": 132637586,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 7,
+      "available_after": 231
+    },
+    {
+      "unit_code": "SUP131",
+      "unit_id": 132637588,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 232
+    },
+    {
+      "unit_code": "SUP132",
+      "unit_id": 132637590,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 228
+    },
+    {
+      "unit_code": "SUP133",
+      "unit_id": 132637592,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 238
+    },
+    {
+      "unit_code": "SUP134",
+      "unit_id": 132637594,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 259
+    },
+    {
+      "unit_code": "SUP135",
+      "unit_id": 132637596,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 252
+    },
+    {
+      "unit_code": "SUP136",
+      "unit_id": 132637598,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 23
+    },
+    {
+      "unit_code": "SUP137",
+      "unit_id": 132637600,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP138",
+      "unit_id": 132637602,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP139",
+      "unit_id": 132637604,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 238
+    },
+    {
+      "unit_code": "SUP140",
+      "unit_id": 132637606,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 251
+    },
+    {
+      "unit_code": "SUP141",
+      "unit_id": 132637608,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SUP142",
+      "unit_id": 132637610,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 259
+    },
+    {
+      "unit_code": "SUP143",
+      "unit_id": 132637612,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SUP144",
+      "unit_id": 132637614,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP145",
+      "unit_id": 132637616,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP146",
+      "unit_id": 132637618,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 232
+    },
+    {
+      "unit_code": "SUP147",
+      "unit_id": 132637620,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 270
+    },
+    {
+      "unit_code": "SUP148",
+      "unit_id": 132637622,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 37,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP149",
+      "unit_id": 132637624,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 263
+    },
+    {
+      "unit_code": "SUP150",
+      "unit_id": 132637626,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 259
+    },
+    {
+      "unit_code": "SUP151",
+      "unit_id": 132637628,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP152",
+      "unit_id": 132637630,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP153",
+      "unit_id": 132637632,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 32,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP154",
+      "unit_id": 132637634,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 272
+    },
+    {
+      "unit_code": "SUP155",
+      "unit_id": 132637636,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP156",
+      "unit_id": 132637638,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP157",
+      "unit_id": 132637640,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP158",
+      "unit_id": 132637642,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 263
+    },
+    {
+      "unit_code": "SUP159",
+      "unit_id": 132637644,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 263
+    },
+    {
+      "unit_code": "SUP160",
+      "unit_id": 132637646,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 263
+    },
+    {
+      "unit_code": "SUP161",
+      "unit_id": 132637648,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 228
+    },
+    {
+      "unit_code": "SUP162",
+      "unit_id": 132637650,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 4,
+      "available_after": 256
+    },
+    {
+      "unit_code": "SUP163",
+      "unit_id": 132637652,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP164",
+      "unit_id": 132637654,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP165",
+      "unit_id": 132637656,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 252
+    },
+    {
+      "unit_code": "SUP166",
+      "unit_id": 132637658,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 231
+    },
+    {
+      "unit_code": "SUP167",
+      "unit_id": 132637660,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP168",
+      "unit_id": 132637662,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 16,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP169",
+      "unit_id": 132637664,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP170",
+      "unit_id": 132637666,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 10,
+      "available_after": 249
+    },
+    {
+      "unit_code": "SUP171",
+      "unit_id": 132637668,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 230
+    },
+    {
+      "unit_code": "SUP172",
+      "unit_id": 132637670,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP173",
+      "unit_id": 132637672,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 259
+    },
+    {
+      "unit_code": "SUP174",
+      "unit_id": 132637674,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 43,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP175",
+      "unit_id": 132637676,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP176",
+      "unit_id": 132637678,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 256
+    },
+    {
+      "unit_code": "SUP177",
+      "unit_id": 132637680,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 270
+    },
+    {
+      "unit_code": "SUP178",
+      "unit_id": 132637682,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 33,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP179",
+      "unit_id": 132637684,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 259
+    },
+    {
+      "unit_code": "SUP180",
+      "unit_id": 132637686,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 34,
+      "available_after": 263
+    },
+    {
+      "unit_code": "SUP181",
+      "unit_id": 132637688,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 277
+    },
+    {
+      "unit_code": "SUP182",
+      "unit_id": 132637690,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP183",
+      "unit_id": 132637692,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 36,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP184",
+      "unit_id": 132637694,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP185",
+      "unit_id": 132637696,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SUP186",
+      "unit_id": 132637777,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP187",
+      "unit_id": 132637698,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 34,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP188",
+      "unit_id": 138754039,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 37,
+      "available_after": 281
+    },
+    {
+      "unit_code": "SUP189",
+      "unit_id": 150146300,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP190",
+      "unit_id": 150146302,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP191",
+      "unit_id": 150146304,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 224
+    },
+    {
+      "unit_code": "SUP192",
+      "unit_id": 149645893,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP193",
+      "unit_id": 149645895,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 63
+    },
+    {
+      "unit_code": "SUP194",
+      "unit_id": 149645897,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 68
+    },
+    {
+      "unit_code": "SUP195",
+      "unit_id": 149645899,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 67
+    },
+    {
+      "unit_code": "SUP196",
+      "unit_id": 149645901,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 62
+    },
+    {
+      "unit_code": "SUP197",
+      "unit_id": 149645903,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP198",
+      "unit_id": 149645905,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP199",
+      "unit_id": 149645907,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP200",
+      "unit_id": 149645909,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP201",
+      "unit_id": 149645911,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 62
+    },
+    {
+      "unit_code": "SUP202",
+      "unit_id": 149645913,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP203",
+      "unit_id": 149645915,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 64
+    },
+    {
+      "unit_code": "SUP204",
+      "unit_id": 149645917,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 65
+    },
+    {
+      "unit_code": "SUP205",
+      "unit_id": 149645919,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 253
+    },
+    {
+      "unit_code": "SUP206",
+      "unit_id": 149645921,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 22,
+      "available_after": 235
+    },
+    {
+      "unit_code": "SUP207",
+      "unit_id": 149645923,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 235
+    },
+    {
+      "unit_code": "SUP208",
+      "unit_id": 149645925,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 15,
+      "available_after": 244
+    },
+    {
+      "unit_code": "SUP209",
+      "unit_id": 149645927,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 1,
+      "available_after": 63
+    },
+    {
+      "unit_code": "SUP210",
+      "unit_id": 149645929,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 232
+    },
+    {
+      "unit_code": "SUP211",
+      "unit_id": 149645931,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP212",
+      "unit_id": 149645933,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP213",
+      "unit_id": 149645935,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 31,
+      "available_after": 270
+    },
+    {
+      "unit_code": "SUP214",
+      "unit_id": 149645937,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP215",
+      "unit_id": 149645939,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 259
+    },
+    {
+      "unit_code": "SUP216",
+      "unit_id": 149645941,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 273
+    },
+    {
+      "unit_code": "SUP217",
+      "unit_id": 149645943,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 265
+    },
+    {
+      "unit_code": "SUP218",
+      "unit_id": 149645945,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP219",
+      "unit_id": 149645947,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 253
+    },
+    {
+      "unit_code": "SUP220",
+      "unit_id": 149645949,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 253
+    },
+    {
+      "unit_code": "SUP221",
+      "unit_id": 149645951,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 31,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SUP222",
+      "unit_id": 149645953,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SUP223",
+      "unit_id": 149645955,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 23,
+      "available_after": 253
+    },
+    {
+      "unit_code": "SUP224",
+      "unit_id": 149645957,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 27,
+      "available_after": 252
+    },
+    {
+      "unit_code": "SUP225",
+      "unit_id": 149645959,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 10,
+      "available_after": 1
+    },
+    {
+      "unit_code": "SUP226",
+      "unit_id": 149645961,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 10,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP227",
+      "unit_id": 149645963,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP228",
+      "unit_id": 149645965,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 19,
+      "available_after": 239
+    },
+    {
+      "unit_code": "SUP229",
+      "unit_id": 149645967,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 230
+    },
+    {
+      "unit_code": "SUP230",
+      "unit_id": 149645969,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 17,
+      "available_after": 231
+    },
+    {
+      "unit_code": "SUP231",
+      "unit_id": 149645971,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 36,
+      "available_after": 1
+    },
+    {
+      "unit_code": "SUP232",
+      "unit_id": 151417384,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 43,
+      "available_after": 258
+    },
+    {
+      "unit_code": "SUP233",
+      "unit_id": 151417386,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 259
+    },
+    {
+      "unit_code": "SUP234",
+      "unit_id": 151417388,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 43,
+      "available_after": 232
+    },
+    {
+      "unit_code": "SUP235",
+      "unit_id": 151417390,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 38,
+      "available_after": 286
+    },
+    {
+      "unit_code": "SUP236",
+      "unit_id": 164209779,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 41,
+      "available_after": 284
+    },
+    {
+      "unit_code": "SUP237",
+      "unit_id": 164209781,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 68
+    },
+    {
+      "unit_code": "SUP238",
+      "unit_id": 164209783,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 58
+    },
+    {
+      "unit_code": "SUP239",
+      "unit_id": 164209785,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 284
+    },
+    {
+      "unit_code": "SUP240",
+      "unit_id": 164209787,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 256
+    },
+    {
+      "unit_code": "SUP241",
+      "unit_id": 164209789,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 26,
+      "available_after": 263
+    },
+    {
+      "unit_code": "SUP242",
+      "unit_id": 181874700,
+      "unit_type_code": "LEAD",
+      "status": "A",
+      "available_before": 30,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP243",
+      "unit_id": 181874702,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 3,
+      "available_after": 68
+    },
+    {
+      "unit_code": "SUP244",
+      "unit_id": 181874704,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP245",
+      "unit_id": 181874706,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP246",
+      "unit_id": 181874708,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP247",
+      "unit_id": 181874710,
+      "unit_type_code": "SUPR",
+      "status": "F",
+      "available_before": null,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP248",
+      "unit_id": 181874712,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 9,
+      "available_after": 1
+    },
+    {
+      "unit_code": "SUP249",
+      "unit_id": 181874714,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 11,
+      "available_after": 69
+    },
+    {
+      "unit_code": "SUP250",
+      "unit_id": 181874716,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 223
+    },
+    {
+      "unit_code": "SUP251",
+      "unit_id": 181874718,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 232
+    },
+    {
+      "unit_code": "SUP252",
+      "unit_id": 181874720,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 12,
+      "available_after": 232
+    },
+    {
+      "unit_code": "SUP253",
+      "unit_id": 181874722,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 231
+    },
+    {
+      "unit_code": "SUP254",
+      "unit_id": 181874724,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 218
+    },
+    {
+      "unit_code": "SUP255",
+      "unit_id": 181874726,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP256",
+      "unit_id": 181874728,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP257",
+      "unit_id": 181874730,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP258",
+      "unit_id": 181874732,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP259",
+      "unit_id": 181874734,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 0,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP260",
+      "unit_id": 181874736,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP261",
+      "unit_id": 181874738,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 70
+    },
+    {
+      "unit_code": "SUP262",
+      "unit_id": 181874740,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 253
+    },
+    {
+      "unit_code": "SUP263",
+      "unit_id": 181874742,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 253
+    },
+    {
+      "unit_code": "SUP264",
+      "unit_id": 181874744,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 272
+    },
+    {
+      "unit_code": "SUP265",
+      "unit_id": 181874746,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 239
+    },
+    {
+      "unit_code": "SUP266",
+      "unit_id": 181874748,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 263
+    },
+    {
+      "unit_code": "SUP267",
+      "unit_id": 181874750,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 8,
+      "available_after": 270
+    },
+    {
+      "unit_code": "SUP268",
+      "unit_id": 181874752,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP269",
+      "unit_id": 181874754,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP270",
+      "unit_id": 181874756,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 273
+    },
+    {
+      "unit_code": "SUP271",
+      "unit_id": 181874758,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 239
+    },
+    {
+      "unit_code": "SUP272",
+      "unit_id": 181874760,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 239
+    },
+    {
+      "unit_code": "SUP273",
+      "unit_id": 181874762,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 280
+    },
+    {
+      "unit_code": "SUP274",
+      "unit_id": 181874764,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 270
+    },
+    {
+      "unit_code": "SUP275",
+      "unit_id": 181874766,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP276",
+      "unit_id": 181874768,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP277",
+      "unit_id": 181874770,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 18,
+      "available_after": 232
+    },
+    {
+      "unit_code": "SUP278",
+      "unit_id": 181874772,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 11,
+      "available_after": 267
+    },
+    {
+      "unit_code": "SUP279",
+      "unit_id": 181874774,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 11,
+      "available_after": 231
+    },
+    {
+      "unit_code": "SUP280",
+      "unit_id": 181874776,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 44,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP281",
+      "unit_id": 181874815,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP282",
+      "unit_id": 231384225,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 260
+    },
+    {
+      "unit_code": "SUP283",
+      "unit_id": 231384227,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 258
+    },
+    {
+      "unit_code": "SUP284",
+      "unit_id": 231384229,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 20,
+      "available_after": 238
+    },
+    {
+      "unit_code": "SUP285",
+      "unit_id": 231384231,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 29,
+      "available_after": 253
+    },
+    {
+      "unit_code": "SUP286",
+      "unit_id": 231384233,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 42,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP287",
+      "unit_id": 231384235,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 28,
+      "available_after": 273
+    },
+    {
+      "unit_code": "SUP288",
+      "unit_id": 231384237,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": 301
+    },
+    {
+      "unit_code": "SUP289",
+      "unit_id": 231384239,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 29,
+      "available_after": 291
+    },
+    {
+      "unit_code": "SUP290",
+      "unit_id": 231384241,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 24,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP291",
+      "unit_id": 231384243,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 14,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP292",
+      "unit_id": 231384245,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 11,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP293",
+      "unit_id": 231384247,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 33,
+      "available_after": 286
+    },
+    {
+      "unit_code": "SUP294",
+      "unit_id": 231384249,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 37,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP295",
+      "unit_id": 231384251,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 266
+    },
+    {
+      "unit_code": "SUP296",
+      "unit_id": 231384253,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 13,
+      "available_after": 64
+    },
+    {
+      "unit_code": "SUP297",
+      "unit_id": 231384255,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 21,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP298",
+      "unit_id": 231384257,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 25,
+      "available_after": 256
+    },
+    {
+      "unit_code": "SUP299",
+      "unit_id": 231384259,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 43,
+      "available_after": null
+    },
+    {
+      "unit_code": "SUP300",
+      "unit_id": 231384261,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 37,
+      "available_after": 274
+    },
+    {
+      "unit_code": "SUP301",
+      "unit_id": 231384263,
+      "unit_type_code": "SUPR",
+      "status": "A",
+      "available_before": 34,
+      "available_after": 274
+    }
+  ]
+}
